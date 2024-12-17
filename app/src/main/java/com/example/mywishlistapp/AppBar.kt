@@ -1,9 +1,13 @@
 package com.example.mywishlistapp
 
 import androidx.compose.foundation.layout.heightIn
+//noinspection UsingMaterialAndMaterial3Libraries
 import androidx.compose.material.Icon
+//noinspection UsingMaterialAndMaterial3Libraries
 import androidx.compose.material.IconButton
+//noinspection UsingMaterialAndMaterial3Libraries
 import androidx.compose.material.Text
+//noinspection UsingMaterialAndMaterial3Libraries
 import androidx.compose.material.TopAppBar
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.automirrored.filled.ArrowBack
